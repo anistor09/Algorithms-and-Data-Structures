@@ -1,4 +1,4 @@
-
+package Exercises;
 
 import Exercises.Library.BinaryTree;
 
